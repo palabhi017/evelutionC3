@@ -2,7 +2,7 @@ name: GithubAction1
 
 on:
   push:
-    branches: ["master"]
+    branches: ["main"]
   workflow_dispatch:
 
 
