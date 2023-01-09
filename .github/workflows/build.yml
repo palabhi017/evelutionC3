@@ -5,10 +5,7 @@ on:
     branches: ["main"]
   workflow_dispatch:
 
-premissions:
-  contents: read
-  pages: write
-  id-token: write
+
 
 jobs:
   build:
